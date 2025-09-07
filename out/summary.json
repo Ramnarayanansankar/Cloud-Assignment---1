@@ -1,0 +1,77 @@
+{
+  "total_trips": 20,
+  "avg_fare_by_city": [
+    {
+      "city": "Boston",
+      "avg_fare": 22.9625
+    },
+    {
+      "city": "Charlotte",
+      "avg_fare": 18.4125
+    },
+    {
+      "city": "Chicago",
+      "avg_fare": 20.6125
+    },
+    {
+      "city": "New York",
+      "avg_fare": 24.55
+    },
+    {
+      "city": "San Francisco",
+      "avg_fare": 23.925
+    }
+  ],
+  "top_by_minutes": [
+    {
+      "city": "New York",
+      "minutes": 42,
+      "fare": 45.2
+    },
+    {
+      "city": "Boston",
+      "minutes": 38,
+      "fare": 36.25
+    },
+    {
+      "city": "Charlotte",
+      "minutes": 35,
+      "fare": 32.4
+    },
+    {
+      "city": "San Francisco",
+      "minutes": 33,
+      "fare": 35.8
+    },
+    {
+      "city": "Chicago",
+      "minutes": 31,
+      "fare": 30.75
+    },
+    {
+      "city": "Boston",
+      "minutes": 29,
+      "fare": 28.5
+    },
+    {
+      "city": "San Francisco",
+      "minutes": 28,
+      "fare": 29.3
+    },
+    {
+      "city": "New York",
+      "minutes": 26,
+      "fare": 27.1
+    },
+    {
+      "city": "Chicago",
+      "minutes": 25,
+      "fare": 24.0
+    },
+    {
+      "city": "Boston",
+      "minutes": 22,
+      "fare": 20.1
+    }
+  ]
+}
