@@ -160,10 +160,4 @@ For future improvement, I would:
 
 ---
 
-## 📌 Submission Notes
 
-- Repo: *(add your GitHub repo URL here)*  
-- One-page PDF includes:  
-  - Build/run commands.  
-  - Example summary JSON (stdout + `summary.json`).  
-  - Reflection (above).  
